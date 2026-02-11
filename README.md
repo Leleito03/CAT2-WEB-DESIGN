@@ -38,4 +38,4 @@ This portfolio showcases three web projects demonstrating my skills in **HTML, C
 ## 📁 How to Run
 1. Clone the repository:  
 ```bash
-git clone <your-portfolio-repo-link>
+https://github.com/Leleito03/CAT2-WEB-DESIGN.git
